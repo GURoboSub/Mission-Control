@@ -1,4 +1,4 @@
 # Mission-Control
-Code used on the linux mission control computer
+Code used on the linux mission control computer.
 
-The mission control computer communicates with the control board and stores and runs the autonomous missions. For testing, it allows us to have a stable remote connection while the submarine is underwater. 
+This code allows us to properly test and debug our submarine's functionality, as well as allow for autonomous missions to be ran. In the future, we plan to add image processing features with OpenCV and machine learning using custom SVM algorithms.
